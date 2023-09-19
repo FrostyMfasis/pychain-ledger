@@ -1,2 +1,3 @@
 # pychain-ledger
 ...
+![Alt Text](pychain_pie.jpg)
