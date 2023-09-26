@@ -23,7 +23,7 @@ With the power of Python and several imported libraries such as streamlit, panda
 ## The initial transaction that I wanted to add to the blockchain to serve as the Genesis Block.
 ![Alt Text](screenshot_1_pychain.png)
 ---
-*How the Blockchain looks after 2 transactions.
+## How the Blockchain looks after 2 transactions.
 ---
 ![Alt Text](screenshot_2_pychain.png)
 ---
