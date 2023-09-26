@@ -19,7 +19,8 @@ I created the blockchain by executing the following steps
 ## Results
 
 With the power of Python and several imported libraries such as streamlit, pandas & hashlib I was able to successfully established the Pychain Blockchain. Below are several screenshots once I tested the final product:
-*The initial transaction that I wanted to add to the blockchain to serve as the Genesis Block.
+---
+## The initial transaction that I wanted to add to the blockchain to serve as the Genesis Block.
 ![Alt Text](screenshot_1_pychain.png)
 ---
 *How the Blockchain looks after 2 transactions.
