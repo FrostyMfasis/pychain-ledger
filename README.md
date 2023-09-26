@@ -26,5 +26,5 @@ With the power of Python and several imported libraries such as streamlit, panda
 ---
 ![Alt Text](screenshot_2_pychain.png)
 ---
-#The chain has been validated.
+# The chain has been validated.
 ![Alt Text](screenshot_3_pychain.png)
